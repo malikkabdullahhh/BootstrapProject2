@@ -1,5 +1,3 @@
-# bstrap4
-sample website project
+Simple Candy Shop Portfolio Website
 
-
-Sasta sa readme hai yeh IK !
+NOTHING COMPLICATED!
